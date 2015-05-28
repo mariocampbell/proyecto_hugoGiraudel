@@ -1,0 +1,14 @@
+{
+    "sass.compiler": "ruby",
+    "sass.compass": true,
+    "path": {
+        "_/components/sass/main.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../css/",
+                "includePaths": [],
+                "sourceMap": false
+            }
+        }
+    }
+}
